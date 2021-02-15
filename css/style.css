@@ -308,7 +308,7 @@ label {
 .login-reg-wrap .widget-title > span,
 .contact-form-wrap .widget-title > span,
 .latest-cars-three .latest-car-content h5 a:hover {
-	color: #ff5400;
+	color: #D23731;
 }
 
 .btn,
@@ -335,7 +335,7 @@ label {
 .related-tag ul li a:hover,
 .post-avatar-content ul li a:hover,
 .contact-info-list li:hover .icon {
-	background: #ff5400;
+	background: #D23731;
 }
 
 /* button style */
@@ -5003,4 +5003,6 @@ label {
     }
 }
 
-
+.logo__img {
+	width: 20rem;
+}
