@@ -250,55 +250,11 @@
     margin-bottom: 0;
     padding-right: 0px;
 }
-.inventory-list-item {
-    display: block;
-    padding: 30px 30px 30px 30px;
-}
-.inventory-list-thumb {
-    width: auto;
-    flex: 0;
-    margin-right: 0;
-    position: relative;
-    margin-bottom: 30px;
-}
-.inventory-list-thumb img {
-    max-width: 100%;
-    width: 100%;
-}
-.inventory-details-area .inventory-sidebar {
-    margin-left: 0;
-}
-.inventory-features,
-.inventory-details-description,
-.inventory-details-location,
-.inventory-review-wrap,
-.inventory-review-form {
-    padding-left: 25px;
-    padding-right: 25px;
-}
-.inventory-features-item h6 {
-    font-size: 14px;
-}
-.inventory-details-area .sidebar-loan-calculator > a i {
-    width: 56px;
-    min-height: 48px;
-    line-height: 48px;
-    flex: 0 0 56px;
-}
-.inventory-details-area .sidebar-loan-calculator > a span {
-    padding: 10px 10px;
-}
-.inventory-details-area .sidebar-loan-calculator > a {
-    font-size: 14px;
-}
 .author-profile-wrap {
     margin-top: 0;
     margin-right: 0;
 }
-.author-profile-area .inventory-short-meta .nice-select {
-    width: 200px;
-    flex: 0 0 200px;
-}
+
 .blog-sidebar {
     background: transparent;
     padding: 0;
@@ -554,21 +510,6 @@
 }
 .best-services-content h3 {
     font-size: 26px;
-}
-.inventory-sidebar {
-    margin-left: 0;
-    margin-top: 120px;
-}
-.inventory-features,
-.inventory-details-description,
-.inventory-details-location,
-.inventory-review-wrap,
-.inventory-review-form {
-    padding-left: 42px;
-    padding-right: 42px;
-}
-.author-profile-wrap {
-    margin-top: 120px;
 }
 .blog--post--content {
     padding: 35px 40px 25px;
@@ -1003,6 +944,7 @@
 
 /* Small devices (landscape phones, 576px and up) */
 @media only screen and (min-width: 576px) and (max-width: 767px) {
+
 .custom-container {
     max-width: 540px;
 }
