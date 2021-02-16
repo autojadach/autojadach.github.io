@@ -3645,6 +3645,8 @@ label {
 }
 .exc-featured-img {
     text-align: center;
+    width: 553px;
+    margin: auto;
 }
 .exc-featured-img img {
     max-width: 100%;
@@ -3847,6 +3849,7 @@ label {
 }
 .footer-brand-item img {
     max-width: 100%;
+		max-height: 126px;
 }
 
 /* 22. Blog */
